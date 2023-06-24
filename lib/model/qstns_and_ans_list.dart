@@ -1,6 +1,3 @@
-import 'package:flutter/material.dart';
-import 'package:google_fonts/google_fonts.dart';
-
 List autoQstnsList = [
   {
     'question': 'What is the top speed of a Bugatti Chiron Super Sport 300+?',

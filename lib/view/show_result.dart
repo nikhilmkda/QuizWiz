@@ -3,8 +3,8 @@ import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:confetti/confetti.dart';
 import 'package:flutter_animate/flutter_animate.dart';
-import 'package:flutter_application_quiz_app/provider.dart';
-import 'package:flutter_application_quiz_app/qstns_and_ans_list.dart';
+import 'package:flutter_application_quiz_app/controller/provider.dart';
+import 'package:flutter_application_quiz_app/model/qstns_and_ans_list.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:provider/provider.dart';
 

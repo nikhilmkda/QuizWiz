@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_quiz_app/qstn_ans_screen_container.dart';
+import 'package:flutter_application_quiz_app/view/qstn_ans_screen_container.dart';
 import 'package:page_transition/page_transition.dart';
 
 class IndexNotifier extends ChangeNotifier {
