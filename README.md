@@ -1,4 +1,4 @@
-# Quiz App
+# QuizWiz
 
 This repository contains a Flutter-based quiz app that allows users to answer questions, use a countdown timer, and enjoy a celebratory confetti animation. The app's UI is designed to be engaging and user-friendly.
 
